@@ -19,13 +19,13 @@ Where to find the implementation for the given problems?
 How to run this three different problems:
 In the "program.cs, we have to uncomment the code which we want to see the output.
 
-	(For E.g.) if I want to see the output for reverse the order of the order I do the following as shown below,
+(For E.g.) if I want to see the output for reverse the order of the order I do the following as shown below,
 
-			/*Uncomment below code to execute "Reverse the order of words of a sentense" problem */
-            ReverseWords.InputString();
+	/*Uncomment below code to execute "Reverse the order of words of a sentense" problem */
+    ReverseWords.InputString();
 
-            /*Uncomment below code to execute "Stack" problem */
-            //StackTest.main();
+    /*Uncomment below code to execute "Stack" problem */
+    //StackTest.main();
 
-            /*Uncomment below code to execute "Common Characters found in both strings" problem */
-            //CommonCharacters.InputString();
+    /*Uncomment below code to execute "Common Characters found in both strings" problem */
+    //CommonCharacters.InputString();
