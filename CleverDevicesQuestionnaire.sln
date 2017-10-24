@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverDevicesQuestionnaire", "CleverDevicesQuestionnaire.csproj", "{D39014BC-DCA6-4667-A232-160502FC4FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D39014BC-DCA6-4667-A232-160502FC4FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39014BC-DCA6-4667-A232-160502FC4FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39014BC-DCA6-4667-A232-160502FC4FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39014BC-DCA6-4667-A232-160502FC4FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5640E30E-990C-4570-9487-D2EBECAB676B}
+	EndGlobalSection
+EndGlobal
